@@ -56,3 +56,6 @@ Here is stub example `stubs.js`.
 How to debug JS:
 - https://code.visualstudio.com/docs/nodejs/nodejs-debugging
 - https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4
+
+## What are spies?
+Spies are very handy and often has a lighter footprint than mocks.
