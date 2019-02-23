@@ -25,4 +25,9 @@ In this lesson about testing, we're learning about the different types of tests 
 
 Lets make first Unit test for class `User`.
 
+## What are mocks and mocking?
+Mocks are a common tool when writing tests for your software. In this lesson, we're learning what mocks are and why and when they are useful.
 
+If we talk of a Mock, we mean an alternate implementation of a Dependency, when we are testing our code.
+
+Here is mock example `mocks.js`.
