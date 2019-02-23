@@ -18,7 +18,8 @@ const nameTest = function () {
     
     const testUser = new User(userDetails)
 
-    console.log('Username is correct: ', testUser.name === 'John Doe')
+    console.log('Username is correct: ', testUser.name === 'John Doe') // true
+    console.log('Username is correct: ', testUser.name === 'Dill Tages') // false
 }
 
 nameTest()
